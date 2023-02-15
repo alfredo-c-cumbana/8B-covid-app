@@ -3,7 +3,8 @@
 This repo contains a Django app that acts as a RESTful API provider to get some statistics about COVID-19 cases around the world using COVID-19 free API https://covid19api.com/
 
 # Getting Started
-```$ git clone repo https://github.com/alfredo-c-cumbana/8B-restapi.git
+```
+$ git clone repo https://github.com/alfredo-c-cumbana/8B-restapi.git
 $ cd 8B-restpi
 $ . .venv/bin/activate
 $ python manage.py makemigrations
